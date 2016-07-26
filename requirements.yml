@@ -1,0 +1,15 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-64
+name: lyrics_vis
+dependencies:
+- gensim
+- ipython
+- jupyter
+- matplotlib
+- numpy
+- nltk
+- pandas
+- python=2.7.12=1
+- scikit-learn
+- scipy
